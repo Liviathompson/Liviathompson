@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil! :smiley:
 
-Sou Lívia Thompson. Comecei minha jornada profissional como Advogada em 2020, após me formar em Direito em 2019. Apaixonada por tecnologia e resolução de problemas, em 2023, decidi realizar minha transição de carreira e me tornei <strong> Programadora Front-end </strong>. Estou empolgada e feliz explorando o mundo do desenvolvimento web, adoro transformar ideias em realidade através do código.
+Sou Lívia Thompson. Comecei minha jornada profissional como Advogada em 2020, após me formar em Direito em 2019. Apaixonada por tecnologia e resolução de problemas decidi realizar minha transição de carreira e me tornei <strong> Programadora Front-end </strong>. Estou empolgada e feliz explorando o mundo do desenvolvimento web, adoro transformar ideias em realidade através do código.
 
 <br>
 <br>
