@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu perfil! :smiley:
 
-Sou formada em Direito, mas minha paixão por tecnologia me motivou a migrar de área. 
+Eu sou Lívia Thompson. Sou formada em Direito, mas minha paixão por tecnologia me motivou a migrar de área. 
 
 A vivência na área jurídica me trouxe grande senso de responsabilidade, gestão de tempo, habilidade em resolver problemas e aprendizado contínuo. 
 
@@ -10,7 +10,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou aprimo
 
 Em minhas experiência profissionais sempre trouxe comigo o apego a excelência, trabalho em equipe, foco no cliente, comunicação e adaptabilidade, o que foi fundamental para minha transição de carreira. 
 
-<br>
 <br>
 
 Estou estudando e criando projetos com as seguintes ferramentas: 
